@@ -1,0 +1,25 @@
+{
+  "name": "rgb-to-hsv",
+  "version": "1.0.0",
+  "description": "A color conversion utility library to convert RGB to HSV color codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parvezk/rgb-to-hsv.git"
+  },
+  "keywords": [
+    "color",
+    "conversion",
+    "rgb",
+    "hsv"
+  ],
+  "author": "Parvez Kose <flamboyanz@gmail.com> (http://www.creativitykills.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/parvezk/rgb-to-hsv/issues"
+  },
+  "homepage": "https://github.com/parvezk/rgb-to-hsv#readme"
+}
